@@ -1,0 +1,1703 @@
+CompanyName,PricePerStock,Risk,MonthlyReturn
+Coca-Cola Co.,120.04,0.95,2.36
+IBM,106.86,0.39,3.35
+Alphabet Inc.,108.75,0.33,3.41
+Berkshire Hathaway Inc.,162.32,0.37,1.18
+Procter & Gamble Co.,65.78,0.45,4.39
+JPMorgan Chase & Co.,283.15,0.49,3.33
+Walt Disney Co.,398.5,0.8,2.82
+Microsoft Corp.,320.49,0.42,3.09
+NVIDIA Corp.,349.46,0.52,1.37
+Amazon.com Inc.,299.86,0.35,1.89
+Visa Inc.,227.78,0.46,2.47
+Johnson & Johnson,106.36,0.76,4.99
+Cisco Systems Inc.,390.66,0.32,1.72
+Meta Platforms Inc.,300.21,0.97,3.08
+Apple Inc.,346.95,0.87,1.79
+Intel Corporation,401.16,0.37,4.01
+Pfizer Inc.,420.46,0.83,1.4
+Tesla Inc.,411.03,0.88,4.85
+Exxon Mobil Corp.,327.13,0.92,1.49
+Oracle Corporation,72.57,0.7,4.62
+Adobe Inc.,285.43,0.65,2.95
+Salesforce Inc.,190.22,0.78,3.12
+Netflix Inc.,412.87,0.91,2.67
+Goldman Sachs Group Inc.,305.19,0.55,3.88
+Morgan Stanley,275.64,0.62,2.45
+PepsiCo Inc.,145.32,0.48,2.33
+McDonalds Corp.,230.77,0.41,2.76
+Nike Inc.,180.54,0.73,3.54
+Starbucks Corp.,95.88,0.67,2.89
+Boeing Co.,310.45,0.85,3.22
+Lockheed Martin Corp.,420.13,0.39,2.15
+General Electric Co.,165.29,0.76,3.45
+Ford Motor Co.,85.67,0.94,2.98
+General Motors Co.,130.44,0.82,3.11
+Caterpillar Inc.,245.91,0.57,2.64
+Honeywell International Inc.,290.33,0.44,3.77
+UnitedHealth Group Inc.,350.66,0.61,2.87
+Anthem Inc.,270.12,0.69,3.33
+CVS Health Corp.,195.78,0.53,2.56
+Walmart Inc.,140.25,0.47,2.22
+Target Corp.,175.99,0.88,3.65
+Home Depot Inc.,310.88,0.72,2.44
+Lowes Companies Inc.,220.56,0.59,3.19
+Costco Wholesale Corp.,380.44,0.36,2.91
+Verizon Communications Inc.,105.67,0.64,2.77
+AT&T Inc.,90.32,0.81,3.02
+Comcast Corp.,135.89,0.55,2.66
+Charter Communications Inc.,260.77,0.77,3.44
+American Express Co.,200.45,0.63,2.88
+Mastercard Inc.,340.22,0.49,3.55
+PayPal Holdings Inc.,255.66,0.92,2.99
+Square Inc.,195.33,0.84,3.21
+Intuit Inc.,370.89,0.58,2.78
+ServiceNow Inc.,410.55,0.71,3.66
+Workday Inc.,230.11,0.66,2.55
+Zoom Video Communications Inc.,185.44,0.89,3.13
+Slack Technologies Inc.,165.78,0.75,2.87
+Twilio Inc.,290.22,0.62,3.34
+Snowflake Inc.,320.99,0.93,2.68
+Crowdstrike Holdings Inc.,245.67,0.79,3.47
+Palo Alto Networks Inc.,280.33,0.54,2.92
+Zscaler Inc.,215.88,0.87,3.25
+Datadog Inc.,190.44,0.65,2.76
+Cloudflare Inc.,235.11,0.73,3.18
+MongoDB Inc.,300.77,0.61,2.89
+Atlassian Corp.,275.22,0.82,3.36
+Shopify Inc.,350.88,0.56,2.67
+Etsy Inc.,195.55,0.94,3.12
+Wayfair Inc.,170.33,0.68,2.98
+Peloton Interactive Inc.,145.99,0.85,3.45
+Roku Inc.,220.66,0.59,2.77
+Spotify Technology SA,265.44,0.76,3.23
+Unity Software Inc.,205.11,0.63,2.88
+Roblox Corp.,290.77,0.91,3.56
+DoorDash Inc.,235.22,0.47,2.65
+Airbnb Inc.,270.88,0.84,3.19
+Uber Technologies Inc.,195.55,0.72,2.94
+Lyft Inc.,160.33,0.89,3.33
+Instacart Inc.,145.99,0.66,2.78
+Pinterest Inc.,220.66,0.53,3.15
+Snap Inc.,265.44,0.81,2.87
+Reddit Inc.,205.11,0.58,3.44
+T-Mobile US Inc.,290.77,0.95,2.69
+DISH Network Corp.,235.22,0.62,3.22
+Electronic Arts Inc.,270.88,0.49,2.96
+Activision Blizzard Inc.,195.55,0.77,3.38
+Take-Two Interactive Software Inc.,160.33,0.64,2.83
+Nextera Energy Inc.,145.99,0.82,3.17
+Duke Energy Corp.,220.66,0.56,2.75
+Southern Co.,265.44,0.93,3.29
+Dominion Energy Inc.,205.11,0.71,2.88
+Exelon Corp.,290.77,0.48,3.46
+American Electric Power Co.,235.22,0.86,2.67
+Sempra Energy Inc.,270.88,0.63,3.14
+Public Service Enterprise Group Inc.,195.55,0.79,2.95
+Consolidated Edison Inc.,160.33,0.57,3.33
+Xcel Energy Inc.,145.99,0.94,2.78
+WEC Energy Group Inc.,220.66,0.61,3.22
+Eversource Energy Inc.,265.44,0.88,2.87
+DTE Energy Co.,205.11,0.65,3.45
+Entergy Corp.,290.77,0.52,2.69
+FirstEnergy Corp.,235.22,0.89,3.18
+PPL Corp.,270.88,0.76,2.94
+CenterPoint Energy Inc.,195.55,0.43,3.36
+Atmos Energy Corp.,160.33,0.81,2.83
+NiSource Inc.,145.99,0.58,3.27
+CMS Energy Corp.,220.66,0.95,2.76
+Alliant Energy Corp.,265.44,0.62,3.14
+Ameren Corp.,205.11,0.49,2.98
+Evergy Inc.,290.77,0.87,3.35
+OGE Energy Corp.,235.22,0.54,2.67
+Pinnacle West Capital Corp.,270.88,0.91,3.23
+Idacorp Inc.,195.55,0.68,2.89
+Portland General Electric Co.,160.33,0.45,3.46
+Hawaiian Electric Industries Inc.,145.99,0.82,2.78
+Avangrid Inc.,220.66,0.59,3.12
+Unitil Corp.,265.44,0.96,2.95
+Black Hills Corp.,205.11,0.63,3.33
+NorthWestern Corp.,290.77,0.51,2.87
+Otter Tail Corp.,235.22,0.88,3.24
+MGE Energy Inc.,270.88,0.65,2.76
+PNM Resources Inc.,195.55,0.42,3.18
+El Paso Electric Co.,160.33,0.79,2.94
+Allete Inc.,145.99,0.56,3.37
+Cleco Corp.,220.66,0.93,2.69
+South Jersey Industries Inc.,265.44,0.61,3.15
+Southwest Gas Holdings Inc.,205.11,0.48,2.88
+Spire Inc.,290.77,0.85,3.46
+New Jersey Resources Corp.,235.22,0.72,2.77
+UGI Corp.,270.88,0.59,3.22
+WGL Holdings Inc.,195.55,0.96,2.98
+Chesapeake Utilities Corp.,160.33,0.64,3.35
+Atmos Energy Corp.,145.99,0.41,2.83
+ONE Gas Inc.,220.66,0.78,3.19
+Northwest Natural Holding Co.,265.44,0.55,2.76
+National Fuel Gas Co.,205.11,0.92,3.14
+Piedmont Natural Gas Co.,290.77,0.69,2.87
+MDU Resources Group Inc.,235.22,0.46,3.33
+Vectren Corp.,270.88,0.83,2.95
+Southwest Gas Corp.,195.55,0.51,3.27
+Newmont Corp.,160.33,0.88,2.78
+Barrick Gold Corp.,145.99,0.65,3.46
+Freeport-McMoRan Inc.,220.66,0.42,2.69
+Southern Copper Corp.,265.44,0.79,3.12
+Agnico Eagle Mines Ltd.,205.11,0.56,2.98
+Gold Fields Ltd.,290.77,0.93,3.35
+Kinross Gold Corp.,235.22,0.61,2.87
+Newcrest Mining Ltd.,270.88,0.48,3.24
+Eldorado Gold Corp.,195.55,0.85,2.76
+Yamana Gold Inc.,160.33,0.62,3.18
+B2Gold Corp.,145.99,0.99,2.94
+Hecla Mining Co.,220.66,0.67,3.37
+Coeur Mining Inc.,265.44,0.44,2.83
+First Majestic Silver Corp.,205.11,0.81,3.15
+Pan American Silver Corp.,290.77,0.58,2.78
+Wheaton Precious Metals Corp.,235.22,0.95,3.46
+Royal Gold Inc.,270.88,0.63,2.69
+Franco-Nevada Corp.,195.55,0.41,3.22
+Sibanye Stillwater Ltd.,160.33,0.78,2.98
+AngloGold Ashanti Ltd.,145.99,0.55,3.35
+Harmony Gold Mining Co.,220.66,0.92,2.87
+Eldorado Gold Corp.,265.44,0.69,3.14
+Alamos Gold Inc.,205.11,0.46,2.76
+SSR Mining Inc.,290.77,0.83,3.33
+Endeavour Silver Corp.,235.22,0.51,2.95
+Fortuna Silver Mines Inc.,270.88,0.88,3.27
+SilverCrest Metals Inc.,195.55,0.65,2.78
+MAG Silver Corp.,160.33,0.42,3.46
+First Quantum Minerals Ltd.,145.99,0.79,2.69
+Teck Resources Ltd.,220.66,0.56,3.12
+Hudbay Minerals Inc.,265.44,0.93,2.98
+Lundin Mining Corp.,205.11,0.61,3.35
+Ero Copper Corp.,290.77,0.48,2.87
+Ivanhoe Mines Ltd.,235.22,0.85,3.24
+Capstone Copper Corp.,270.88,0.62,2.76
+Sandstorm Gold Ltd.,195.55,0.99,3.18
+Seabridge Gold Inc.,160.33,0.67,2.94
+Osisko Gold Royalties Ltd.,145.99,0.44,3.37
+Equinox Gold Corp.,220.66,0.81,2.83
+Torex Gold Resources Inc.,265.44,0.58,3.15
+Dundee Precious Metals Inc.,205.11,0.95,2.78
+Centerra Gold Inc.,290.77,0.63,3.46
+IAMGOLD Corp.,235.22,0.41,2.69
+New Gold Inc.,270.88,0.78,3.22
+K92 Mining Inc.,195.55,0.55,2.98
+Aris Mining Corp.,160.33,0.92,3.35
+Orla Mining Ltd.,145.99,0.69,2.87
+Calibre Mining Corp.,220.66,0.46,3.14
+Argonaut Gold Inc.,265.44,0.83,2.76
+Great Bear Resources Ltd.,205.11,0.51,3.33
+Skeena Resources Ltd.,290.77,0.88,2.95
+Victoria Gold Corp.,235.22,0.65,3.27
+Wesdome Gold Mines Ltd.,270.88,0.42,2.78
+Pure Gold Mining Inc.,195.55,0.79,3.46
+Sabina Gold & Silver Corp.,160.33,0.56,2.69
+Rupert Resources Ltd.,145.99,0.93,3.12
+Marathon Gold Corp.,220.66,0.61,2.98
+Probe Metals Inc.,265.44,0.48,3.35
+Wallbridge Mining Co.,205.11,0.85,2.87
+Anaconda Mining Inc.,290.77,0.62,3.24
+Nighthawk Gold Corp.,235.22,0.99,2.76
+Bonterra Resources Inc.,270.88,0.67,3.18
+Treasury Metals Inc.,195.55,0.44,2.94
+Liberty Gold Corp.,160.33,0.81,3.37
+Mandalay Resources Corp.,145.99,0.58,2.83
+Golden Star Resources Ltd.,220.66,0.95,3.15
+Asanko Gold Inc.,265.44,0.63,2.78
+Teranga Gold Corp.,205.11,0.41,3.46
+Roxgold Inc.,290.77,0.78,2.69
+Perseus Mining Ltd.,235.22,0.55,3.22
+Resolute Mining Ltd.,270.88,0.92,2.98
+West African Resources Ltd.,195.55,0.69,3.35
+Saracen Mineral Holdings Ltd.,160.33,0.46,2.87
+Evolution Mining Ltd.,145.99,0.83,3.14
+Northern Star Resources Ltd.,220.66,0.51,2.76
+Regis Resources Ltd.,265.44,0.88,3.33
+St Barbara Ltd.,205.11,0.65,2.95
+Silver Lake Resources Ltd.,290.77,0.42,3.27
+Ramelius Resources Ltd.,235.22,0.79,2.78
+Red 5 Ltd.,270.88,0.56,3.46
+Dacian Gold Ltd.,195.55,0.93,2.69
+Pantoro Ltd.,160.33,0.61,3.12
+Bellevue Gold Ltd.,145.99,0.48,2.98
+De Grey Mining Ltd.,220.66,0.85,3.35
+Chalice Mining Ltd.,265.44,0.62,2.87
+Lynas Rare Earths Ltd.,205.11,0.99,3.24
+Iluka Resources Ltd.,290.77,0.67,2.76
+Mineral Resources Ltd.,235.22,0.44,3.18
+IGO Ltd.,270.88,0.81,2.94
+South32 Ltd.,195.55,0.58,3.37
+BHP Group Ltd.,160.33,0.95,2.83
+Rio Tinto Ltd.,145.99,0.63,3.15
+Fortescue Metals Group Ltd.,220.66,0.41,2.78
+Newcrest Mining Ltd.,265.44,0.78,3.46
+OZ Minerals Ltd.,205.11,0.55,2.69
+Alumina Ltd.,290.77,0.92,3.22
+BlueScope Steel Ltd.,235.22,0.69,2.98
+Sims Ltd.,270.88,0.46,3.35
+Orica Ltd.,195.55,0.83,2.87
+Incitec Pivot Ltd.,160.33,0.51,3.14
+CSR Ltd.,145.99,0.88,2.76
+Boral Ltd.,220.66,0.65,3.33
+James Hardie Industries PLC,265.44,0.42,2.95
+Adelaide Brighton Ltd.,205.11,0.79,3.27
+Fletcher Building Ltd.,290.77,0.56,2.78
+Lendlease Group,235.22,0.93,3.46
+CIMIC Group Ltd.,270.88,0.61,2.69
+Downer EDI Ltd.,195.55,0.48,3.12
+Monadelphous Group Ltd.,160.33,0.85,2.98
+NRW Holdings Ltd.,145.99,0.62,3.35
+Perenti Global Ltd.,220.66,0.99,2.87
+MACA Ltd.,265.44,0.67,3.24
+Ausdrill Ltd.,205.11,0.44,2.76
+Emeco Holdings Ltd.,290.77,0.81,3.18
+MACMAHON Holdings Ltd.,235.22,0.58,2.94
+Thiess Group,270.88,0.95,3.37
+UGL Ltd.,195.55,0.63,2.83
+Worley Ltd.,160.33,0.41,3.15
+Transurban Group,145.99,0.78,2.78
+Sydney Airport,220.66,0.55,3.46
+Auckland International Airport,265.44,0.92,2.69
+Qantas Airways Ltd.,205.11,0.69,3.22
+Virgin Australia Holdings Ltd.,290.77,0.46,2.98
+Flight Centre Travel Group Ltd.,235.22,0.83,3.35
+Webjet Ltd.,270.88,0.51,2.87
+Corporate Travel Management Ltd.,195.55,0.88,3.14
+Helloworld Travel Ltd.,160.33,0.65,2.76
+Carnival Corp.,145.99,0.42,3.33
+Royal Caribbean Cruises Ltd.,220.66,0.79,2.95
+Norwegian Cruise Line Holdings Ltd.,265.44,0.56,3.27
+Marriott International Inc.,205.11,0.93,2.78
+Hilton Worldwide Holdings Inc.,290.77,0.61,3.46
+InterContinental Hotels Group PLC,235.22,0.48,2.69
+Wyndham Hotels & Resorts Inc.,270.88,0.85,3.12
+Choice Hotels International Inc.,195.55,0.62,2.98
+Hyatt Hotels Corp.,160.33,0.99,3.35
+MGM Resorts International,145.99,0.67,2.87
+Caesars Entertainment Inc.,220.66,0.44,3.24
+Wynn Resorts Ltd.,265.44,0.81,2.76
+Las Vegas Sands Corp.,205.11,0.58,3.18
+Penn National Gaming Inc.,290.77,0.95,2.94
+Boyd Gaming Corp.,235.22,0.63,3.37
+Churchill Downs Inc.,270.88,0.41,2.83
+Scientific Games Corp.,195.55,0.78,3.15
+Eldorado Resorts Inc.,160.33,0.55,2.78
+Red Rock Resorts Inc.,145.99,0.92,3.46
+Monarch Casino & Resort Inc.,220.66,0.69,2.69
+Century Casinos Inc.,265.44,0.46,3.22
+Full House Resorts Inc.,205.11,0.83,2.98
+Golden Entertainment Inc.,290.77,0.51,3.35
+Alliance Data Systems Corp.,235.22,0.88,2.87
+Equifax Inc.,270.88,0.65,3.14
+Experian PLC,195.55,0.42,2.76
+TransUnion,160.33,0.79,3.33
+FICO,145.99,0.56,2.95
+Moodys Corp.,220.66,0.93,3.27
+S&P Global Inc.,265.44,0.61,2.78
+MSCI Inc.,205.11,0.48,3.46
+FactSet Research Systems Inc.,290.77,0.85,2.69
+Verisk Analytics Inc.,235.22,0.62,3.12
+Nielsen Holdings PLC,270.88,0.99,2.98
+IHS Markit Ltd.,195.55,0.67,3.35
+CoStar Group Inc.,160.33,0.44,2.87
+Zillow Group Inc.,145.99,0.81,3.24
+Redfin Corp.,220.66,0.58,2.76
+Compass Inc.,265.44,0.95,3.18
+Opendoor Technologies Inc.,205.11,0.63,2.94
+Anywhere Real Estate Inc.,290.77,0.41,3.37
+CBRE Group Inc.,235.22,0.78,2.83
+Jones Lang LaSalle Inc.,270.88,0.55,3.15
+Colliers International Group Inc.,195.55,0.92,2.78
+Cushman & Wakefield PLC,160.33,0.69,3.46
+Newmark Group Inc.,145.99,0.46,2.69
+Marcus & Millichap Inc.,220.66,0.83,3.22
+Realogy Holdings Corp.,265.44,0.51,2.98
+eXp World Holdings Inc.,205.11,0.88,3.35
+RE/MAX Holdings Inc.,290.77,0.65,2.87
+Keller Williams Realty Inc.,235.22,0.42,3.14
+Coldwell Banker Real Estate LLC,270.88,0.79,2.76
+Sothebys International Realty,195.55,0.56,3.33
+Century 21 Real Estate LLC,160.33,0.93,2.95
+Berkshire Hathaway HomeServices,145.99,0.61,3.27
+ERA Real Estate,220.66,0.48,2.78
+Better Homes and Gardens Real Estate,265.44,0.85,3.46
+Weichert Realtors,205.11,0.62,2.69
+Long & Foster Real Estate Inc.,290.77,0.99,3.12
+Howard Hanna Real Estate Services,235.22,0.67,2.98
+Crye-Leike Realtors,270.88,0.44,3.35
+Allen Tate Realtors,195.55,0.81,2.87
+Baird & Warner,160.33,0.58,3.24
+William Raveis Real Estate,145.99,0.95,2.76
+Houlihan Lawrence,220.66,0.63,3.18
+Daniel Gale Sothebys International Realty,265.44,0.41,2.94
+Douglas Elliman Real Estate,205.11,0.78,3.37
+Brown Harris Stevens,290.77,0.55,2.83
+Halstead Real Estate,235.22,0.92,3.15
+Corcoran Group,270.88,0.69,2.78
+Warburg Realty,195.55,0.46,3.46
+Stribling & Associates,160.33,0.83,2.69
+Compass Real Estate,145.99,0.51,3.22
+The Agency,220.66,0.88,2.98
+Pacific Union International,265.44,0.65,3.35
+Alain Pinel Realtors,205.11,0.42,2.87
+Intero Real Estate Services,290.77,0.79,3.14
+Climb Real Estate,235.22,0.56,2.76
+Red Oak Realty,270.88,0.93,3.33
+McEnearney Associates Inc.,195.55,0.61,2.95
+TTR Sothebys International Realty,160.33,0.48,3.27
+Prominent Properties Sothebys International Realty,145.99,0.85,2.78
+Heritage House Sothebys International Realty,220.66,0.62,3.46
+Willis Allen Real Estate,265.44,0.99,2.69
+Strano & Associates Real Estate,205.11,0.67,3.12
+Fonville Morisey Realty,290.77,0.44,2.98
+Yerman Group,235.22,0.81,3.35
+Nest Seekers International,270.88,0.58,2.87
+Julia B. Fee Sothebys International Realty,195.55,0.95,3.24
+Town Residential,160.33,0.63,2.76
+Rodeo Realty,145.99,0.41,3.18
+Pacific Sothebys International Realty,220.66,0.78,2.94
+Laffey Fine Homes,265.44,0.55,3.37
+Michael Saunders & Company,205.11,0.92,2.83
+Premier Sothebys International Realty,290.77,0.69,3.15
+Gulf Coast International Properties,235.22,0.46,2.78
+John R. Wood Properties,270.88,0.83,3.46
+William Pitt Sothebys International Realty,195.55,0.51,2.69
+Mott & Chace Sothebys International Realty,160.33,0.88,3.22
+Gibson Sothebys International Realty,145.99,0.65,2.98
+Hammond Residential Real Estate,220.66,0.42,3.35
+Barrett Sothebys International Realty,265.44,0.79,2.87
+Jordan Real Estate,205.11,0.56,3.14
+Maury People Sothebys International Realty,290.77,0.93,2.76
+Acme Innovations,234.56,0.47,3.45
+BrightStar Solutions,178.9,0.72,2.89
+NovaTech Enterprises,389.23,0.54,4.12
+Quantum Systems,145.67,0.88,3.67
+Skyline Ventures,321.89,0.39,2.34
+Pioneer Tech,267.45,0.65,3.78
+Horizon Analytics,198.12,0.91,4.23
+Vertex Group,412.34,0.43,2.98
+Apex Corp,156.78,0.76,3.56
+Stratus Innovations,367.9,0.62,4.45
+Lumen Tech,289.01,0.35,2.12
+Eclipse Enterprises,123.45,0.94,3.89
+Radiant Solutions,301.23,0.58,4.67
+Nexus Systems,211.56,0.83,2.78
+Aurora Ventures,434.67,0.46,3.34
+Zenith Corp,245.89,0.71,4.12
+Orion Innovations,178.23,0.97,3.45
+Galactic Tech,367.45,0.49,2.89
+Stellar Group,289.78,0.85,4.23
+Infinity Enterprises,401.12,0.37,3.12
+Cosmos Solutions,167.9,0.64,4.56
+Meteor Analytics,312.34,0.92,2.45
+Astral Ventures,245.56,0.53,3.78
+Comet Systems,389.01,0.78,4.34
+Nebula Tech,134.67,0.41,2.67
+Solaris Innovations,321.23,0.69,3.89
+Pulsar Enterprises,198.45,0.95,4.12
+Starlight Solutions,412.78,0.44,2.34
+Vortex Group,256.9,0.87,3.67
+Zephyr Analytics,334.12,0.61,4.45
+Aether Corp,178.56,0.36,2.98
+Chronos Ventures,301.89,0.73,3.56
+Eon Tech,245.23,0.99,4.23
+Titan Innovations,367.45,0.48,2.89
+Olympus Systems,211.78,0.84,3.45
+Hercules Enterprises,434.9,0.57,4.67
+Apollo Group,156.34,0.93,2.78
+Athena Solutions,289.01,0.42,3.12
+Zeus Tech,401.23,0.68,4.34
+Prometheus Ventures,178.67,0.96,3.78
+Atlas Analytics,312.45,0.51,2.45
+Hyperion Corp,245.89,0.77,3.89
+Oceanus Innovations,367.12,0.33,4.56
+Poseidon Systems,198.34,0.88,3.34
+Triton Enterprises,412.56,0.64,2.12
+Neptune Tech,289.78,0.39,3.67
+Ares Solutions,134.9,0.91,4.23
+Hermes Group,321.23,0.46,2.89
+Hephaestus Ventures,245.45,0.72,3.56
+Demeter Analytics,389.67,0.98,4.45
+Hestia Corp,178.12,0.55,2.34
+Artemis Innovations,301.34,0.83,3.78
+Dionysus Enterprises,211.56,0.37,4.12
+Hades Tech,434.78,0.69,3.45
+Persephone Systems,367.9,0.94,2.67
+Cerberus Group,156.23,0.47,3.89
+Hydra Ventures,289.01,0.75,4.34
+Minotaur Analytics,401.45,0.31,2.98
+Chimera Solutions,245.67,0.86,3.56
+Sphinx Enterprises,178.89,0.62,4.23
+Pegasus Tech,312.12,0.99,2.45
+Icarus Innovations,198.34,0.44,3.12
+Daedalus Group,412.56,0.71,4.67
+Theseus Ventures,289.78,0.38,3.78
+Odysseus Corp,134.9,0.93,2.89
+Achilles Analytics,321.23,0.49,3.34
+Hector Solutions,245.45,0.76,4.12
+Ajax Enterprises,389.67,0.32,2.56
+Paris Tech,178.12,0.87,3.67
+Trojan Group,301.34,0.65,4.45
+Spartan Innovations,211.56,0.91,2.98
+Athenian Ventures,434.78,0.43,3.45
+Corinthian Systems,367.9,0.78,4.23
+Theban Analytics,156.23,0.34,2.78
+Delphic Enterprises,289.01,0.89,3.89
+Olympic Tech,401.45,0.57,4.56
+Arcadia Solutions,245.67,0.92,3.12
+Elysium Group,178.89,0.48,2.34
+Utopia Ventures,312.12,0.74,3.78
+Nirvana Innovations,198.34,0.99,4.34
+Eden Corp,412.56,0.36,2.67
+Valhalla Enterprises,289.78,0.81,3.45
+Asgard Analytics,134.9,0.53,4.12
+Midgard Tech,321.23,0.88,2.89
+Jotunheim Group,245.45,0.45,3.56
+Alfheim Solutions,389.67,0.71,4.23
+Vanaheim Ventures,178.12,0.97,3.78
+Niflheim Innovations,301.34,0.42,2.45
+Muspelheim Enterprises,211.56,0.68,3.89
+Svartalfheim Tech,434.78,0.94,4.56
+Helheim Analytics,367.9,0.51,3.12
+Avalon Systems,156.23,0.76,2.34
+Camelot Group,289.01,0.33,3.67
+Excalibur Ventures,401.45,0.59,4.45
+Merlin Innovations,245.67,0.84,3.89
+Lancelot Corp,178.89,0.39,2.56
+Gawain Enterprises,312.12,0.65,3.34
+Tristan Tech,198.34,0.91,4.12
+Percival Solutions,412.56,0.47,2.78
+Galahad Group,289.78,0.72,3.45
+Bors Analytics,134.9,0.98,4.23
+Kay Ventures,321.23,0.44,3.12
+Bedivere Innovations,245.45,0.69,3.78
+Agravain Enterprises,389.67,0.95,4.56
+Gaheris Tech,178.12,0.52,2.89
+Gareth Solutions,301.34,0.77,3.56
+Lamora Group,211.56,0.34,4.34
+Mordred Ventures,434.78,0.61,3.67
+Arthurian Analytics,367.9,0.86,2.45
+Guinevere Enterprises,156.23,0.41,3.89
+Isolde Tech,289.01,0.67,4.12
+Elaine Solutions,401.45,0.93,3.34
+Vivian Group,245.67,0.49,2.78
+Morgana Innovations,178.89,0.74,3.45
+Nimue Ventures,312.12,0.99,4.23
+Enid Enterprises,198.34,0.46,3.12
+Lynette Tech,412.56,0.71,3.78
+Luned Solutions,289.78,0.38,4.56
+Caelia Group,134.9,0.64,3.89
+Evaine Analytics,321.23,0.89,2.34
+Olwen Ventures,245.45,0.45,3.67
+Blancheflor Innovations,389.67,0.71,4.45
+Laudine Enterprises,178.12,0.97,3.12
+Ygraine Tech,301.34,0.53,2.78
+Igraine Solutions,211.56,0.78,3.45
+Morgan Group,434.78,0.34,4.23
+Ector Ventures,367.9,0.59,3.89
+Pellinore Analytics,156.23,0.85,2.56
+Dagonet Innovations,289.01,0.41,3.34
+Lucan Enterprises,401.45,0.66,4.12
+Griflet Tech,245.67,0.92,3.78
+Sagramore Solutions,178.89,0.48,3.12
+Lionel Group,312.12,0.73,4.56
+Dinadan Ventures,198.34,0.99,3.67
+Balan Analytics,412.56,0.55,2.45
+Bors Innovations,289.78,0.81,3.89
+Erec Enterprises,134.9,0.37,4.34
+Lamorak Tech,321.23,0.63,3.56
+Palomides Solutions,245.45,0.88,2.78
+Safir Group,389.67,0.44,3.45
+Tor Ventures,178.12,0.69,4.12
+Feirefiz Analytics,301.34,0.95,3.34
+Parzival Innovations,211.56,0.51,2.89
+Gahmuret Enterprises,434.78,0.76,3.67
+Condwiramurs Tech,367.9,0.32,4.23
+Herzeloyde Solutions,156.23,0.58,3.12
+Sigune Group,289.01,0.84,3.78
+Cundrie Ventures,401.45,0.39,4.56
+Orgeluse Analytics,245.67,0.65,3.45
+Arnive Innovations,178.89,0.91,2.34
+Belakane Enterprises,312.12,0.47,3.89
+Liaze Tech,198.34,0.72,4.12
+Antikonie Solutions,412.56,0.98,3.56
+Bene Group,289.78,0.54,2.78
+Clamide Ventures,134.9,0.79,3.34
+Cunneware Analytics,321.23,0.35,4.45
+Dindrane Innovations,245.45,0.61,3.67
+Enite Enterprises,389.67,0.86,2.89
+Feflez Tech,178.12,0.42,3.12
+Garschiloyde Solutions,301.34,0.68,4.23
+Gawain Group,211.56,0.94,3.78
+Gramoflanz Ventures,434.78,0.49,3.45
+Itunje Analytics,367.9,0.75,2.56
+Jeschute Innovations,156.23,0.31,3.89
+Kardeiz Enterprises,289.01,0.57,4.34
+Klingsor Tech,401.45,0.82,3.12
+Kundrie Solutions,245.67,0.38,2.78
+Lunete Group,178.89,0.64,3.56
+Mabuz Ventures,312.12,0.89,4.45
+Meliagaunce Analytics,198.34,0.45,3.34
+Orilus Innovations,412.56,0.71,2.89
+Rivalin Enterprises,289.78,0.97,3.67
+Segramors Tech,134.9,0.52,4.12
+Titurel Solutions,321.23,0.78,3.78
+Trevrizent Group,245.45,0.34,3.12
+Uriens Ventures,389.67,0.59,4.56
+Vergulaht Analytics,178.12,0.85,3.45
+Zor Innovations,301.34,0.41,2.34
+Acrux Enterprises,211.56,0.66,3.89
+Adhara Tech,434.78,0.92,4.23
+Agena Solutions,367.9,0.48,3.56
+Alcor Group,156.23,0.73,2.78
+Aldebaran Ventures,289.01,0.99,3.34
+Alhena Analytics,401.45,0.55,4.12
+Alioth Innovations,245.67,0.81,3.67
+Alkaid Enterprises,178.89,0.37,3.12
+Alnair Tech,312.12,0.63,4.45
+Alnilam Solutions,198.34,0.88,3.89
+Alphard Group,412.56,0.44,2.56
+Altair Ventures,289.78,0.69,3.34
+Antares Analytics,134.9,0.95,4.23
+Arcturus Innovations,321.23,0.51,3.78
+Bellatrix Enterprises,245.45,0.76,3.12
+Betelgeuse Tech,389.67,0.32,4.56
+Canopus Solutions,178.12,0.58,3.45
+Capella Group,301.34,0.84,2.89
+Castor Ventures,211.56,0.39,3.67
+Deneb Analytics,434.78,0.65,4.34
+Dubhe Innovations,367.9,0.91,3.56
+Elnath Enterprises,156.23,0.47,3.12
+Fomalhaut Tech,289.01,0.72,4.12
+Gacrux Solutions,401.45,0.98,3.78
+Hadar Group,245.67,0.54,3.34
+Kaus Ventures,178.89,0.79,3.89
+Menkalinan Analytics,312.12,0.35,4.45
+Merak Innovations,198.34,0.61,3.12
+Mimosa Enterprises,412.56,0.86,2.78
+Mirfak Tech,289.78,0.42,3.56
+Nunki Solutions,134.9,0.68,4.23
+Peacock Group,321.23,0.94,3.45
+Phact Ventures,245.45,0.49,3.89
+Pollux Analytics,389.67,0.75,4.12
+Procyon Innovations,178.12,0.31,3.34
+Rasalhague Enterprises,301.34,0.57,2.78
+Regulus Tech,211.56,0.82,3.67
+Rigel Solutions,434.78,0.38,4.56
+Saiph Group,367.9,0.64,3.12
+Schedar Ventures,156.23,0.89,3.78
+Shaula Analytics,289.01,0.45,4.34
+Sirius Innovations,401.45,0.71,3.45
+Spica Enterprises,245.67,0.97,2.89
+Suhail Tech,178.89,0.53,3.56
+Vega Solutions,312.12,0.78,4.23
+Wezen Group,198.34,0.34,3.12
+Zosma Ventures,412.56,0.59,3.78
+Albireo Analytics,289.78,0.85,4.56
+Alchiba Innovations,134.9,0.41,3.34
+Alcyone Enterprises,321.23,0.66,2.78
+Alderamin Tech,245.45,0.92,3.89
+Alfirk Solutions,389.67,0.48,4.12
+Algenib Group,178.12,0.73,3.56
+Alhena Ventures,301.34,0.99,3.12
+Alkair Analytics,211.56,0.55,3.78
+Almach Innovations,434.78,0.81,4.34
+Alnath Enterprises,367.9,0.37,3.45
+Alphirk Tech,156.23,0.63,2.89
+Alrescha Solutions,289.01,0.88,3.67
+Alshain Group,401.45,0.44,4.23
+Altarf Ventures,245.67,0.69,3.34
+Aludra Analytics,178.89,0.95,3.89
+Alwaid Innovations,312.12,0.51,4.56
+Ancha Enterprises,198.34,0.76,3.12
+Ankaa Tech,412.56,0.32,3.78
+Arkab Solutions,289.78,0.58,4.34
+Armus Group,134.9,0.84,3.45
+Arrakis Ventures,321.23,0.39,2.78
+Ascella Analytics,245.45,0.65,3.56
+Asterion Innovations,389.67,0.91,4.12
+Atik Enterprises,178.12,0.47,3.89
+Auva Tech,301.34,0.72,4.45
+Azha Solutions,211.56,0.98,3.34
+Baten Group,434.78,0.54,2.78
+Beid Ventures,367.9,0.79,3.67
+Bunda Analytics,156.23,0.35,4.23
+Caph Innovations,289.01,0.61,3.12
+Celaeno Enterprises,401.45,0.86,3.78
+Chort Tech,245.67,0.42,4.56
+Cursa Solutions,178.89,0.68,3.45
+Dabih Group,312.12,0.94,2.89
+Denebola Ventures,198.34,0.49,3.34
+Diphda Analytics,412.56,0.75,4.12
+Dsiban Innovations,289.78,0.31,3.78
+Electra Enterprises,134.9,0.57,4.34
+Enif Tech,321.23,0.82,3.56
+Errai Solutions,245.45,0.38,2.78
+Fumalsamakah Group,389.67,0.64,3.12
+Giedi Ventures,178.12,0.89,3.89
+Gomeisa Analytics,301.34,0.45,4.45
+Hassaleh Innovations,211.56,0.71,3.34
+Heka Enterprises,434.78,0.97,2.78
+Homam Tech,367.9,0.53,3.67
+Iklil Solutions,156.23,0.78,4.23
+Izar Group,289.01,0.34,3.12
+Jabbah Ventures,401.45,0.59,3.78
+Kaffaljidhma Analytics,245.67,0.85,4.56
+Keid Innovations,178.89,0.41,3.45
+Kitalpha Enterprises,312.12,0.66,2.89
+Kornephoros Tech,198.34,0.92,3.34
+Lesath Solutions,412.56,0.48,4.12
+Maasym Group,289.78,0.73,3.78
+Marfik Ventures,134.9,0.99,3.12
+Markab Analytics,321.23,0.55,4.34
+Matar Innovations,245.45,0.81,3.67
+Mebsuta Enterprises,389.67,0.37,2.78
+Media Tech,178.12,0.63,3.56
+Menkab Solutions,301.34,0.88,4.45
+Merga Group,211.56,0.44,3.89
+Meridiana Ventures,434.78,0.69,3.34
+Merope Analytics,367.9,0.95,2.78
+Mesarthim Innovations,156.23,0.51,3.12
+Mintaka Enterprises,289.01,0.76,3.78
+Mirach Tech,401.45,0.32,4.56
+Mothallah Solutions,245.67,0.58,3.45
+Muphrid Group,178.89,0.84,3.67
+Muscida Ventures,312.12,0.39,4.23
+Nahn Analytics,198.34,0.65,3.12
+Naos Innovations,412.56,0.91,3.78
+Nashira Enterprises,289.78,0.47,4.34
+Nekkar Tech,134.9,0.72,3.56
+Nihal Solutions,321.23,0.98,2.89
+Nusakan Group,245.45,0.54,3.34
+Okul Ventures,389.67,0.79,4.12
+Phad Analytics,178.12,0.35,3.78
+Pherkad Innovations,301.34,0.61,3.12
+Porrima Enterprises,211.56,0.86,3.67
+Praecipua Tech,434.78,0.42,4.45
+Rana Solutions,367.9,0.68,3.89
+Rastaban Group,156.23,0.94,3.34
+Rotanev Ventures,289.01,0.49,2.78
+Ruchbah Analytics,401.45,0.75,3.56
+Sabik Innovations,245.67,0.31,4.23
+Sadalbari Enterprises,178.89,0.57,3.12
+Sadalmelik Tech,312.12,0.82,3.78
+Sadr Solutions,198.34,0.38,4.34
+Saiph Group,412.56,0.64,3.45
+Salh Ventures,289.78,0.89,2.89
+Sargas Analytics,134.9,0.45,3.67
+Sceptrum Innovations,321.23,0.71,4.12
+Schedar Enterprises,245.45,0.97,3.34
+Segin Tech,389.67,0.53,3.89
+Seginus Solutions,178.12,0.78,4.56
+Sham Group,301.34,0.34,3.12
+Sheratan Ventures,211.56,0.59,3.78
+Situla Analytics,434.78,0.85,2.78
+Skat Innovations,367.9,0.41,3.56
+Sulafat Enterprises,156.23,0.66,4.23
+Syrma Tech,289.01,0.92,3.12
+Talitha Solutions,401.45,0.48,3.78
+Tania Group,245.67,0.73,4.34
+Tarf Ventures,178.89,0.99,3.45
+Taygeta Analytics,312.12,0.55,2.89
+Tegmen Innovations,198.34,0.81,3.67
+Theemin Enterprises,412.56,0.37,4.12
+Thuban Tech,289.78,0.63,3.34
+Tseen Solutions,134.9,0.88,3.89
+Tsih Group,321.23,0.44,4.56
+Tureis Ventures,245.45,0.69,3.12
+Vega Analytics,389.67,0.95,2.78
+Vindemiatrix Innovations,178.12,0.51,3.56
+Wasat Enterprises,301.34,0.76,4.23
+Wezen Tech,211.56,0.32,3.78
+Yed Solutions,434.78,0.58,3.12
+Zaniah Group,367.9,0.84,3.67
+Zaurak Ventures,156.23,0.39,4.34
+Zavijava Analytics,289.01,0.65,3.89
+Zuben Innovations,401.45,0.91,2.78
+Astra Enterprises,245.67,0.47,3.34
+Auriga Tech,178.89,0.72,4.12
+Boote Solutions,312.12,0.98,3.56
+Canes Group,198.34,0.54,3.12
+Carina Ventures,412.56,0.79,3.78
+Cassiopeia Analytics,289.78,0.35,4.45
+Centaurus Innovations,134.9,0.61,3.34
+Cepheus Enterprises,321.23,0.86,2.89
+Cetus Tech,245.45,0.42,3.67
+Chamaeleon Solutions,389.67,0.68,4.23
+Circinus Group,178.12,0.94,3.12
+Columba Ventures,301.34,0.49,3.78
+Corvus Analytics,211.56,0.75,4.56
+Crater Innovations,434.78,0.31,3.45
+Crux Enterprises,367.9,0.57,2.78
+Cygnus Tech,156.23,0.82,3.34
+Delphinus Solutions,289.01,0.38,4.12
+Dorado Group,401.45,0.64,3.89
+Draco Ventures,245.67,0.89,3.56
+Eridanus Analytics,178.89,0.45,3.12
+Fornax Innovations,312.12,0.71,3.78
+Gemini Enterprises,198.34,0.97,4.34
+Grus Tech,412.56,0.53,3.34
+Hercules Solutions,289.78,0.78,2.89
+Horologium Group,134.9,0.34,3.67
+Hydra Ventures,321.23,0.59,4.23
+Hydrus Analytics,245.45,0.85,3.12
+Indus Innovations,389.67,0.41,3.78
+Lacerta Enterprises,178.12,0.66,4.56
+Leo Tech,301.34,0.92,3.45
+Lepus Solutions,211.56,0.48,2.78
+Libra Group,434.78,0.73,3.34
+Lupus Ventures,367.9,0.99,3.89
+Lynx Analytics,156.23,0.55,4.12
+Lyra Innovations,289.01,0.81,3.56
+Mensa Enterprises,401.45,0.37,2.78
+Microscopium Tech,245.67,0.63,3.12
+Monoceros Solutions,178.89,0.88,3.78
+Musca Group,312.12,0.44,4.34
+Norma Ventures,198.34,0.69,3.67
+Octans Analytics,412.56,0.95,2.89
+Ophiuchus Innovations,289.78,0.51,3.34
+Orion Enterprises,134.9,0.76,4.12
+Pavo Tech,321.23,0.32,3.78
+Pegasus Solutions,245.45,0.58,3.12
+Perseus Group,389.67,0.84,3.89
+Phoenix Ventures,178.12,0.39,4.56
+Pictor Analytics,301.34,0.65,3.34
+Pisces Innovations,211.56,0.91,2.78
+Piscis Enterprises,434.78,0.47,3.67
+Puppis Tech,367.9,0.72,4.23
+Pyxis Solutions,156.23,0.98,3.12
+Reticulum Group,289.01,0.54,3.78
+Sagitta Ventures,401.45,0.79,4.34
+Sagittarius Analytics,245.67,0.35,3.45
+Scorpius Innovations,178.89,0.61,2.89
+Sculptor Enterprises,312.12,0.86,3.34
+Scutum Tech,198.34,0.42,3.12
+Serpens Solutions,412.56,0.68,3.78
+Sextans Group,289.78,0.94,4.56
+Taurus Ventures,134.9,0.49,3.34
+Telescopium Analytics,321.23,0.75,2.78
+Triangulum Innovations,245.45,0.31,3.67
+Tucana Enterprises,389.67,0.57,4.12
+Ursa Tech,178.12,0.82,3.89
+Vela Solutions,301.34,0.38,3.12
+Virgo Group,211.56,0.64,3.56
+Volans Ventures,434.78,0.89,4.23
+Vulpecula Analytics,367.9,0.45,3.78
+Apus Innovations,156.23,0.71,3.34
+Aquila Enterprises,289.01,0.97,2.89
+Ara Tech,401.45,0.53,3.67
+Auriga Solutions,245.67,0.78,4.12
+Caelum Group,178.89,0.34,3.12
+Canis Ventures,312.12,0.59,3.78
+Capricornus Analytics,198.34,0.85,4.34
+Carina Innovations,412.56,0.41,3.45
+Centaurus Enterprises,289.78,0.66,2.78
+Cetus Tech,134.9,0.92,3.34
+Chamaeleon Solutions,321.23,0.48,3.89
+Circinus Group,245.45,0.73,4.56
+Columba Ventures,389.67,0.99,3.12
+Corvus Analytics,178.12,0.55,3.67
+Crater Innovations,301.34,0.81,3.12
+Crux Enterprises,211.56,0.37,4.23
+Cygnus Tech,434.78,0.63,3.78
+Delphinus Solutions,367.9,0.88,2.89
+Dorado Group,156.23,0.44,3.34
+Draco Ventures,289.01,0.69,4.12
+Eridanus Analytics,401.45,0.95,3.56
+Fornax Innovations,245.67,0.51,3.12
+Gemini Enterprises,178.89,0.76,3.78
+Grus Tech,312.12,0.32,4.34
+Hercules Solutions,198.34,0.58,3.12
+Horologium Group,412.56,0.84,3.67
+Hydra Ventures,289.78,0.39,4.23
+Hydrus Analytics,134.9,0.65,3.34
+Indus Innovations,321.23,0.91,2.78
+Lacerta Enterprises,245.45,0.47,3.89
+Fauji Fertilizer Company,245.67,0.45,3.12
+Habib Bank Limited,178.23,0.62,2.89
+Engro Corporation,392.45,0.78,4.21
+Pakistan State Oil,105.89,0.33,1.76
+Lucky Cement Limited,321.54,0.91,3.67
+United Bank Limited,287.12,0.56,2.45
+Nishat Mills Limited,156.78,0.87,4.03
+Attock Petroleum Limited,410.23,0.42,2.98
+MCB Bank Limited,198.45,0.73,3.55
+Oil & Gas Development Company,367.89,0.64,1.92
+Packages Limited,234.56,0.39,2.67
+Noor Industries,89.34,0.95,4.78
+Sui Northern Gas Pipelines,301.23,0.51,3.34
+Hub Power Company,176.89,0.82,2.12
+Descon Engineering Limited,432.67,0.47,4.56
+Treet Corporation,265.12,0.69,3.89
+Gul Ahmed Textile Mills,123.45,0.36,1.45
+Pakistan Telecommunication Company,378.9,0.88,4.23
+National Foods Limited,211.34,0.54,2.78
+Shan Foods Private Limited,345.67,0.71,3.45
+K-Electric Limited,167.89,0.93,4.67
+Maple Leaf Cement,289.01,0.41,2.34
+Ferozsons Laboratories,456.23,0.67,3.78
+Service Industries Limited,134.56,0.85,4.12
+Cherat Cement Company,321.78,0.52,2.89
+Rafhan Maize Products,198.23,0.76,3.56
+Colgate-Palmolive Pakistan,412.45,0.38,1.67
+Pakistan Tobacco Company,256.78,0.94,4.45
+Murree Brewery Company,178.9,0.63,2.23
+Nestlé Pakistan Limited,334.12,0.49,3.12
+Unilever Pakistan Limited,287.56,0.81,4.78
+Archroma Pakistan,156.23,0.57,2.45
+Bata Pakistan Limited,389.01,0.72,3.89
+GlaxoSmithKline Pakistan,223.45,0.35,1.56
+ICI Pakistan Limited,401.67,0.89,4.34
+Abbott Laboratories Pakistan,178.89,0.66,2.78
+Searle Company Limited,312.23,0.44,3.45
+Highnoon Laboratories,245.56,0.92,4.12
+Pakistan International Airlines,367.78,0.53,2.89
+Airblue Limited,134.9,0.77,3.67
+Shaheen Air International,421.23,0.68,4.23
+Pakistan Railways,289.45,0.46,2.34
+Karachi Port Trust,167.67,0.84,3.78
+Port Qasim Authority,334.01,0.61,4.56
+Gwadar Port Authority,211.23,0.39,2.12
+Pakistan National Shipping Corporation,456.78,0.95,4.89
+Marine Group of Companies,178.56,0.74,3.45
+Pakistan Steel Mills,301.89,0.48,2.78
+Peoples Steel Mills,245.23,0.86,4.12
+Ittefaq Iron Industries,389.45,0.55,3.34
+Crescent Steel & Allied Products,123.67,0.93,4.67
+International Steels Limited,367.9,0.67,2.89
+Amreli Steels Limited,211.12,0.41,3.56
+Mughal Iron & Steel Industries,434.56,0.79,4.23
+Aisha Steel Mills,178.23,0.62,2.45
+Pakistan Cables Limited,312.45,0.88,3.78
+Fast Cables Limited,245.67,0.54,4.12
+Newage Cables Limited,401.89,0.76,2.89
+Siemens Pakistan Engineering,167.9,0.33,3.45
+KSB Pumps Company,334.12,0.91,4.56
+Millat Tractors Limited,289.45,0.69,2.23
+Al-Ghazi Tractors Limited,123.78,0.47,3.89
+Sazgar Engineering Works,456.23,0.85,4.34
+Honda Atlas Cars Pakistan,211.56,0.52,2.78
+Indus Motor Company,367.89,0.94,3.12
+Pak Suzuki Motor Company,178.01,0.71,4.67
+Ghandhara Industries,301.23,0.38,2.45
+Ghandhara Nissan Limited,245.45,0.96,3.78
+Hinopak Motors Limited,412.67,0.64,4.23
+Master Motor Corporation,134.9,0.42,2.89
+Dewan Farooque Motors,389.12,0.87,3.56
+Thal Limited,223.45,0.55,4.12
+Bibojee Group,367.78,0.93,2.34
+Security Papers Limited,178.56,0.76,3.89
+Pakistan Security Printing Corporation,301.89,0.44,4.56
+Dawood Hercules Corporation,245.23,0.82,3.33
+Fatima Fertilizer Company,389.45,0.59,2.76
+Engro Fertilizers Limited,167.67,0.96,3.22
+Fauji Cement Company,321.78,0.63,2.98
+Kohat Cement Company,198.23,0.41,3.45
+Pioneer Cement Limited,412.45,0.78,4.12
+Bestway Cement Limited,256.78,0.55,3.67
+D.G. Khan Cement Company,178.9,0.92,2.89
+Attock Cement Pakistan,334.12,0.69,3.34
+Thatta Cement Company,287.56,0.46,4.23
+Power Cement Limited,156.23,0.83,3.78
+Cherat Packaging Limited,389.01,0.61,2.45
+Tri-Pack Films Limited,223.45,0.38,3.12
+Pakistan Synthetics Limited,401.67,0.95,4.56
+Gatron Industries Limited,178.89,0.72,3.45
+Ibrahim Fibres Limited,312.23,0.49,2.78
+Reliance Weaving Mills,245.56,0.86,3.89
+ Sapphire Textile Mills,367.78,0.63,4.34
+ Kohinoor Textile Mills,134.9,0.41,2.67
+ Interloop Limited,421.23,0.78,3.56
+ Artistic Denim Mills,289.45,0.55,4.12
+ Soorty Enterprises,167.67,0.92,3.34
+ Masood Textile Mills,334.01,0.69,2.89
+ Nishat Chunian Limited,211.23,0.46,3.78
+ Fazal Cloth Mills,456.78,0.83,4.45
+ Al-Karam Textile Mills,178.56,0.61,3.12
+ Yunus Textile Mills,301.89,0.38,2.45
+ Liberty Mills Limited,245.23,0.95,3.67
+ Sapphire Fibres Limited,389.45,0.72,4.23
+ Gulistan Textile Mills,123.67,0.49,3.34
+ Tata Textile Mills,367.9,0.86,2.78
+ Blessed Textiles Limited,211.12,0.63,3.89
+ Amtex Limited,434.56,0.41,4.56
+ Azgard Nine Limited,178.23,0.78,3.12
+ Colony Textile Mills,312.45,0.55,2.67
+ Chenab Limited,245.67,0.92,3.45
+ Din Textile Mills,401.89,0.69,4.34
+ Gadoon Textile Mills,167.9,0.46,3.78
+ Hira Textile Mills,334.12,0.83,2.89
+ J.K. Spinning Mills,289.45,0.61,3.56
+ Kohinoor Spinning Mills,123.78,0.38,4.12
+ Saif Textile Mills,456.23,0.95,3.34
+ Sargodha Spinning Mills,211.56,0.72,2.45
+ Shadab Textile Mills,367.89,0.49,3.67
+ Crescent Textile Mills,178.01,0.86,4.23
+ Reliance Cotton Spinning Mills,301.23,0.63,3.12
+ Bannu Woollen Mills,245.45,0.41,2.78
+ Janana De Malucho Textile Mills,412.67,0.78,3.89
+ Dewan Textile Mills,134.9,0.55,4.56
+ Kohat Textile Mills,389.12,0.92,3.34
+ Quetta Textile Mills,223.45,0.69,2.67
+ Redco Textiles Limited,367.78,0.46,3.45
+ Sana Industries Limited,178.56,0.83,4.12
+ Schon Textiles Limited,301.89,0.61,3.78
+ Towellers Limited,245.23,0.38,3.12
+ Zephyr Textile Limited,389.45,0.95,2.89
+ Bilal Fibres Limited,123.67,0.72,3.56
+ Chakwal Spinning Mills,367.9,0.49,4.34
+ D.S. Industries Limited,211.12,0.86,3.67
+ Elahi Cotton Mills,434.56,0.63,2.45
+ Ellcot Spinning Mills,178.23,0.41,3.34
+ Fateh Textile Mills,312.45,0.78,4.12
+ Hala Enterprises Limited,245.67,0.55,3.89
+ Idrees Textile Mills,401.89,0.92,3.12
+ Island Textile Mills,167.9,0.69,2.78
+ J.A. Textile Mills,334.12,0.46,3.45
+ Khalid Siraj Textile Mills,289.45,0.83,4.23
+ Maqbool Textile Mills,123.78,0.61,3.78
+ Mukhtar Textile Mills,456.23,0.38,3.34
+ Nagina Cotton Mills,211.56,0.95,2.67
+ Nazir Cotton Mills,367.89,0.72,3.56
+ Olympia Spinning & Weaving Mills,178.01,0.49,4.12
+ Premium Textile Mills,301.23,0.86,3.89
+ Prosperity Weaving Mills,245.45,0.63,3.12
+ Quality Textile Mills,412.67,0.41,2.45
+ Ravi Textile Mills,134.9,0.78,3.34
+ Resham Textile Industries,389.12,0.55,4.23
+ Ruby Textile Mills,223.45,0.92,3.67
+ S.S. Oil Mills Limited,367.78,0.69,2.89
+ Sadiq Oil Extraction,178.56,0.46,3.12
+ Shams Textile Mills,301.89,0.83,3.78
+ Suraj Cotton Mills,245.23,0.61,4.56
+ Tariq Cotton Mills,389.45,0.38,3.34
+ Yousaf Weaving Mills,123.67,0.95,2.78
+ Zahidjee Textile Mills,367.9,0.72,3.45
+ Al-Abid Silk Mills,211.12,0.49,4.12
+ Al-Qadir Textile Mills,434.56,0.86,3.89
+ Anwar Textile Mills,178.23,0.63,3.12
+ Aruj Industries Limited,312.45,0.41,2.67
+ Ashfaq Textile Mills,245.67,0.78,3.34
+ Asim Textile Mills,401.89,0.55,4.23
+ Babri Cotton Mills,167.9,0.92,3.67
+ Bhanero Textile Mills,334.12,0.69,2.89
+ Blessed Textiles Limited,289.45,0.46,3.12
+ Crescent Fibres Limited,123.78,0.83,3.78
+ Dar-es-Salaam Textile Mills,456.23,0.61,4.34
+ Data Textile Limited,211.56,0.38,3.56
+ Dewan Mushtaq Textile Mills,367.89,0.95,2.45
+ Din Industries Limited,178.01,0.72,3.34
+ Ejaz Textile Mills,301.23,0.49,4.12
+ Fazal Textile Mills,245.45,0.86,3.67
+ Ghafoor Textile Mills,412.67,0.63,2.78
+ Ghazi Fabrics International,134.9,0.41,3.12
+ Gulshan Spinning Mills,389.12,0.78,3.89
+ Hafiz Textile Mills,223.45,0.55,4.34
+ Hala Spinning Mills,367.78,0.92,3.12
+ Hussain Industries,178.56,0.69,2.67
+ Ishaq Textile Mills,301.89,0.46,3.34
+ Ismail Textile Mills,245.23,0.83,3.78
+ Junaid Cotton Mills,389.45,0.61,4.56
+ Karim Cotton Mills,123.67,0.38,3.12
+ Khurshid Spinning Mills,367.9,0.95,2.89
+ Latif Cotton Mills,211.12,0.72,3.45
+ Mahmood Textile Mills,434.56,0.49,4.23
+ Mehr Dastgir Textile Mills,178.23,0.86,3.67
+ Mian Textile Industries,312.45,0.63,2.78
+ Modern Textile Mills,245.67,0.41,3.12
+ Mohib Exports Limited,401.89,0.78,3.89
+ Nadeem Textile Mills,167.9,0.55,4.34
+ Noor Silk Mills,334.12,0.92,3.56
+ Olympia Textile Mills,289.45,0.69,2.67
+ Paramount Spinning Mills,123.78,0.46,3.34
+ Reliance Textile Mills,456.23,0.83,3.78
+ Salfi Textile Mills,211.56,0.61,4.12
+ Salman Noman Enterprises,367.89,0.38,3.45
+ Saritow Spinning Mills,178.01,0.95,2.89
+ Shahtaj Textile Limited,301.23,0.72,3.56
+ Shahzad Textile Mills,245.45,0.49,4.23
+ Silver Fibre Limited,412.67,0.86,3.12
+ Sunrays Textile Mills,134.9,0.63,2.67
+ Taha Spinning Mills,389.12,0.41,3.34
+ Taj Textile Mills,223.45,0.78,3.78
+ United Textile Mills,367.78,0.55,4.56
+ Yousaf Textile Mills,178.56,0.92,3.12
+ Zainab Textile Mills,301.89,0.69,2.89
+ Zulfiqar Industries,245.23,0.46,3.34
+ Al-Hamd Textile Mills,389.45,0.83,3.78
+ Al-Jadeed Textile Mills,123.67,0.61,4.12
+ Al-Noor Textile Mills,367.9,0.38,3.56
+ Amin Textile Mills,211.12,0.95,2.67
+ Anoud Textile Mills,434.56,0.72,3.45
+ Apex Fabrics Limited,178.23,0.49,4.23
+ Arshad Textile Mills,312.45,0.86,3.12
+ Asif Textile Mills,245.67,0.63,2.78
+ Ayesha Textile Mills,401.89,0.41,3.34
+ Aziz Textile Mills,167.9,0.78,3.89
+ Bannu Textile Mills,334.12,0.55,4.34
+ Bilal Textile Mills,289.45,0.92,3.67
+ Burj Textile Mills,123.78,0.69,2.89
+ Capital Textile Mills,456.23,0.46,3.12
+ Chashma Textile Mills,211.56,0.83,3.78
+ City Textile Mills,367.89,0.61,4.56
+ Crescent Cotton Mills,178.01,0.38,3.34
+ Dawood Textile Mills,301.23,0.95,2.67
+ Dewan Khalid Textile Mills,245.45,0.72,3.45
+ Diamond Textile Mills,412.67,0.49,4.12
+ Dominion Textile Mills,134.9,0.86,3.78
+ Dream Textile Mills,389.12,0.63,3.12
+ Elite Textile Mills,223.45,0.41,2.89
+ Empire Textile Mills,367.78,0.78,3.34
+ Excel Textile Mills,178.56,0.55,3.78
+ Faisal Textile Mills,301.89,0.92,4.34
+ Faran Textile Mills,245.23,0.69,3.56
+ Firdous Textile Mills,389.45,0.46,2.67
+ Frontier Textile Mills,123.67,0.83,3.12
+ Galaxy Textile Mills,367.9,0.61,3.78
+ Ghazi Textile Mills,211.12,0.38,4.23
+ Glamour Textile Mills,434.56,0.95,3.45
+ Global Textile Mills,178.23,0.72,2.89
+ Golden Textile Mills,312.45,0.49,3.34
+ Green Textile Mills,245.67,0.86,3.78
+ Gulf Textile Mills,401.89,0.63,4.56
+ Harmony Textile Mills,167.9,0.41,3.12
+ Hayat Textile Mills,334.12,0.78,2.67
+ Horizon Textile Mills,289.45,0.55,3.34
+ Ideal Textile Mills,123.78,0.92,3.78
+ Imran Textile Mills,456.23,0.69,4.34
+ Indus Textile Mills,211.56,0.46,3.56
+ International Textile Mills,367.89,0.83,2.89
+ Iqbal Textile Mills,178.01,0.61,3.12
+ Irfan Textile Mills,301.23,0.38,3.78
+ Ismail Industries Limited,245.45,0.95,4.23
+ Javedan Corporation,412.67,0.72,3.45
+ Jubilee Spinning & Weaving Mills,134.9,0.49,2.67
+ Kaiser Textile Mills,389.12,0.86,3.34
+ Kamran Textile Mills,223.45,0.63,3.78
+ Karachi Textile Mills,367.78,0.41,4.12
+ Kausar Textile Mills,178.56,0.78,3.56
+ Khalid Textile Mills,301.89,0.55,2.89
+ Khayyam Textile Mills,245.23,0.92,3.34
+ Kiran Textile Mills,389.45,0.69,3.78
+ Kohinoor Industries Limited,123.67,0.46,4.34
+ Lalpir Power Limited,367.9,0.83,3.12
+ Liberty Power Tech,211.12,0.61,2.67
+ Macpac Films Limited,434.56,0.38,3.45
+ Magna Textile Mills,178.23,0.95,3.78
+ Mahfooz Textile Mills,312.45,0.72,4.23
+ Majestic Textile Mills,245.67,0.49,3.56
+ Malik Textile Mills,401.89,0.86,2.89
+ Mansoor Textile Mills,167.9,0.63,3.12
+ Maqsood Textile Mills,334.12,0.41,3.78
+ Marghazar Textile Mills,289.45,0.78,4.34
+ Mashriq Textile Mills,123.78,0.55,3.12
+ Mehmood Textile Mills,456.23,0.92,2.67
+ Mehr Textile Mills,211.56,0.69,3.34
+ Meridian Textile Mills,367.89,0.46,3.78
+ Metro Textile Mills,178.01,0.83,4.12
+ Mian Muhammad Textile Mills,301.23,0.61,3.56
+ Millat Industries Limited,245.45,0.38,3.12
+ Mirpur Textile Mills,412.67,0.95,2.89
+ Model Textile Mills,134.9,0.72,3.34
+ Modern Fibres Limited,389.12,0.49,3.78
+ Mohsin Textile Mills,223.45,0.86,4.34
+ Moon Textile Mills,367.78,0.63,3.12
+ Mughal Textile Mills,178.56,0.41,2.67
+ Mukhtar Industries Limited,301.89,0.78,3.34
+ Murad Textile Mills,245.23,0.55,3.78
+ Mushtaq Textile Mills,389.45,0.92,4.23
+ Nadeem Industries Limited,123.67,0.69,3.56
+ Naeem Textile Mills,367.9,0.46,2.89
+ Najeeb Textile Mills,211.12,0.83,3.12
+ National Textile Mills,434.56,0.61,3.78
+ Naveed Textile Mills,178.23,0.38,4.34
+ Nawab Textile Mills,312.45,0.95,3.12
+ Naz Textile Mills,245.67,0.72,2.67
+ New Jubilee Textile Mills,401.89,0.49,3.34
+ Nimir Industrial Chemicals,167.9,0.86,3.78
+ Nishat Power Limited,334.12,0.63,4.23
+ Noor Industries Limited,289.45,0.41,3.12
+ Olympia Industries Limited,123.78,0.78,2.89
+ Orient Textile Mills,456.23,0.55,3.34
+ Pak Electron Limited,211.56,0.92,3.78
+ Pakistan Paper Products,367.89,0.69,4.34
+ Paramount Industries Limited,178.01,0.46,3.12
+ Pervaiz Textile Mills,301.23,0.83,2.67
+ Pioneer Industries Limited,245.45,0.61,3.34
+ Popular Textile Mills,412.67,0.38,3.78
+ Premium Industries Limited,134.9,0.95,4.23
+ Prestige Textile Mills,389.12,0.72,3.12
+ Prime Textile Mills,223.45,0.49,2.89
+ Prosperity Industries Limited,367.78,0.86,3.34
+ Qayyum Textile Mills,178.56,0.63,3.78
+ Quality Industries Limited,301.89,0.41,4.34
+ Rafiq Textile Mills,245.23,0.78,3.12
+ Rahat Textile Mills,389.45,0.55,2.67
+ Raja Textile Mills,123.67,0.92,3.34
+ Rashid Textile Mills,367.9,0.69,3.78
+ Ravi Industries Limited,211.12,0.46,4.23
+ Regal Textile Mills,434.56,0.83,3.12
+ Rehman Textile Mills,178.23,0.61,2.89
+ Reliance Industries Limited,312.45,0.38,3.34
+ Resham Industries Limited,245.67,0.95,3.78
+ Riaz Textile Mills,401.89,0.72,4.34
+ Royal Textile Mills,167.9,0.49,3.12
+ Ruby Industries Limited,334.12,0.86,2.67
+ S.S. Industries Limited,289.45,0.63,3.34
+ Saadat Textile Mills,123.78,0.41,3.78
+ Sabah Textile Mills,456.23,0.78,4.23
+ Sadiq Industries Limited,211.56,0.55,3.12
+ Saeed Textile Mills,367.89,0.92,2.89
+ Safa Textile Mills,178.01,0.69,3.34
+ Safe Textile Mills,301.23,0.46,3.78
+ Saif Industries Limited,245.45,0.83,4.34
+ Sajjad Textile Mills,412.67,0.61,3.12
+ Saleem Textile Mills,134.9,0.38,2.67
+ Salman Textile Mills,389.12,0.95,3.34
+ Samad Textile Mills,223.45,0.72,3.78
+ Sanaullah Textile Mills,367.78,0.49,4.23
+ Saphire Industries Limited,178.56,0.86,3.12
+ Sarhad Textile Mills,301.89,0.63,2.89
+ Sargodha Industries Limited,245.23,0.41,3.34
+ Sattar Textile Mills,389.45,0.78,3.78
+ Saud Textile Mills,123.67,0.55,4.34
+ Shafi Textile Mills,367.9,0.92,3.12
+ Shahbaz Textile Mills,211.12,0.69,2.67
+ Shahid Textile Mills,434.56,0.46,3.34
+ Shahzad Industries Limited,178.23,0.83,3.78
+ Shaikh Textile Mills,312.45,0.61,4.23
+ Shakil Textile Mills,245.67,0.38,3.12
+ Shamim Textile Mills,401.89,0.95,2.89
+ Shams Industries Limited,167.9,0.72,3.34
+ Sheraz Textile Mills,334.12,0.49,3.78
+ Siddique Textile Mills,289.45,0.86,4.34
+ Silver Industries Limited,123.78,0.63,3.12
+ Siraj Textile Mills,456.23,0.41,2.67
+ Sitara Textile Mills,211.56,0.78,3.34
+ Sohail Textile Mills,367.89,0.55,3.78
+ Star Industries Limited,178.01,0.92,4.23
+ Subhan Textile Mills,301.23,0.69,3.12
+ Sultan Textile Mills,245.45,0.46,2.89
+ Sunny Textile Mills,412.67,0.83,3.34
+ Sunrise Textile Mills,134.9,0.61,3.78
+ Super Textile Mills,389.12,0.38,4.34
+ Supreme Textile Mills,223.45,0.95,3.12
+ Suraj Industries Limited,367.78,0.72,2.67
+ Syed Textile Mills,178.56,0.49,3.34
+ Tahir Textile Mills,301.89,0.86,3.78
+ Taj Industries Limited,245.23,0.63,4.23
+ Tanveer Textile Mills,389.45,0.41,3.12
+ Tariq Industries Limited,123.67,0.78,2.89
+ Tauqeer Textile Mills,367.9,0.55,3.34
+ Tayyab Textile Mills,211.12,0.92,3.78
+ Tipu Textile Mills,434.56,0.69,4.34
+ Towel Textile Mills,178.23,0.46,3.12
+ Umar Textile Mills,312.45,0.83,2.67
+ Union Textile Mills,245.67,0.61,3.34
+ United Industries Limited,401.89,0.38,3.78
+ Unity Textile Mills,167.9,0.95,4.23
+ Usman Textile Mills,334.12,0.72,3.12
+ Victor Textile Mills,289.45,0.49,2.89
+ Vision Textile Mills,123.78,0.86,3.34
+ Wahid Textile Mills,456.23,0.63,3.78
+ Waleed Textile Mills,211.56,0.41,4.34
+ Waqar Textile Mills,367.89,0.78,3.12
+ Waseem Textile Mills,178.01,0.55,2.67
+ Yasir Textile Mills,301.23,0.92,3.34
+ Yousuf Textile Mills,245.45,0.69,3.78
+ Zahid Textile Mills,412.67,0.46,4.23
+ Zain Industries Limited,134.9,0.83,3.12
+ Zaki Textile Mills,389.12,0.61,2.89
+ Zaman Textile Mills,223.45,0.38,3.34
+ Zeeshan Textile Mills,367.78,0.95,3.78
+ Zenith Industries Limited,178.56,0.72,4.34
+ Zia Textile Mills,301.89,0.49,3.12
+ Zohaib Textile Mills,245.23,0.86,2.67
+ Zubair Textile Mills,389.45,0.63,3.34
+ Zulqarnain Textile Mills,123.67,0.41,3.78
+ Aadil Industries Limited,367.9,0.78,4.23
+ Aamir Textile Mills,211.12,0.55,3.12
+ Abbas Textile Mills,434.56,0.92,2.89
+ Abdul Textile Mills,178.23,0.69,3.34
+ Abid Textile Mills,312.45,0.46,3.78
+ Adeel Textile Mills,245.67,0.83,4.34
+ Adil Textile Mills,401.89,0.61,3.12
+ Afzal Textile Mills,167.9,0.38,2.67
+ Ahmad Textile Mills,334.12,0.95,3.34
+ Ahsan Textile Mills,289.45,0.72,3.78
+ Akbar Textile Mills,123.78,0.49,4.23
+ Akhtar Textile Mills,456.23,0.86,3.12
+ Alam Textile Mills,211.56,0.63,2.89
+Tata Steel Limited,245.67,0.45,3.12
+Reliance Industries,178.23,0.62,2.89
+HDFC Bank Limited,392.45,0.78,4.21
+Infosys Limited,105.89,0.33,1.76
+Adani Enterprises,321.54,0.91,3.67
+Bharti Airtel Limited,287.12,0.56,2.45
+Hindustan Unilever,156.78,0.87,4.03
+ITC Limited,410.23,0.42,2.98
+Larsen & Toubro,198.45,0.73,3.55
+Maruti Suzuki India,367.89,0.64,1.92
+Bajaj Finance Limited,234.56,0.39,2.67
+Sun Pharmaceutical Industries,89.34,0.95,4.78
+Asian Paints Limited,301.23,0.51,3.34
+Axis Bank Limited,176.89,0.82,2.12
+Mahindra & Mahindra,432.67,0.47,4.56
+Kotak Mahindra Bank,265.12,0.69,3.89
+Nestlé India Limited,123.45,0.36,1.45
+Wipro Limited,378.9,0.88,4.23
+Dr. Reddy's Laboratories,211.34,0.54,2.78
+HCL Technologies,345.67,0.71,3.45
+Titan Company Limited,167.89,0.93,4.67
+UltraTech Cement,289.01,0.41,2.34
+Dabur India Limited,456.23,0.67,3.78
+Godrej Consumer Products,134.56,0.85,4.12
+Pidilite Industries,321.78,0.52,2.89
+Britannia Industries,198.23,0.76,3.56
+Eicher Motors Limited,412.45,0.38,1.67
+Shree Cement Limited,256.78,0.94,4.45
+Havells India Limited,178.9,0.63,2.23
+Berger Paints India,334.12,0.49,3.12
+Ambuja Cements,287.56,0.81,4.78
+Marico Limited,156.23,0.57,2.45
+Colgate-Palmolive India,389.01,0.72,3.89
+Bharat Petroleum Corporation,223.45,0.35,1.56
+Indian Oil Corporation,401.67,0.89,4.34
+GAIL India Limited,178.89,0.66,2.78
+Hindalco Industries,312.23,0.44,3.45
+JSW Steel Limited,245.56,0.92,4.12
+Vedanta Limited,367.78,0.53,2.89
+Cipla Limited,134.9,0.77,3.67
+Tech Mahindra Limited,421.23,0.68,4.23
+Aurobindo Pharma,289.45,0.46,2.34
+Lupin Limited,167.67,0.84,3.78
+Divi's Laboratories,334.01,0.61,4.56
+Bajaj Auto Limited,211.23,0.39,2.12
+Hero MotoCorp Limited,456.78,0.95,4.89
+TVS Motor Company,178.56,0.74,3.45
+Apollo Hospitals Enterprise,301.89,0.48,2.78
+Fortis Healthcare Limited,245.23,0.86,4.12
+Zee Entertainment Enterprises,389.45,0.55,3.34
+PVR Inox Limited,123.67,0.93,4.67
+DLF Limited,367.9,0.67,2.89
+Godrej Properties Limited,211.12,0.41,3.56
+Oberoi Realty Limited,434.56,0.79,4.23
+Prestige Estates Projects,178.23,0.62,2.45
+Tata Power Company,312.45,0.88,3.78
+Adani Power Limited,245.67,0.54,4.12
+NTPC Limited,401.89,0.76,2.89
+Power Grid Corporation,167.9,0.33,3.45
+Adani Green Energy,334.12,0.91,4.56
+Tata Motors Limited,289.45,0.69,2.23
+Ashok Leyland Limited,123.78,0.47,3.89
+Sundaram Finance Limited,456.23,0.85,4.34
+Cholamandalam Investment,211.56,0.52,2.78
+Muthoot Finance Limited,367.89,0.94,3.12
+Shriram Finance Limited,178.01,0.71,4.67
+ICICI Bank Limited,301.23,0.38,2.45
+State Bank of India,245.45,0.96,3.78
+Punjab National Bank,412.67,0.64,4.23
+Canara Bank Limited,134.9,0.42,2.89
+Bank of Baroda,389.12,0.87,3.56
+Union Bank of India,223.45,0.55,4.12
+IndusInd Bank Limited,367.78,0.93,2.34
+Yes Bank Limited,178.56,0.76,3.89
+IDFC First Bank,301.89,0.44,4.56
+Bandhan Bank Limited,245.23,0.82,3.33
+Federal Bank Limited,389.45,0.59,2.76
+RBL Bank Limited,123.67,0.96,3.22
+South Indian Bank,367.9,0.63,2.98
+Karur Vysya Bank,211.12,0.41,3.45
+City Union Bank,434.56,0.78,4.12
+Tata Consultancy Services,178.23,0.55,3.67
+Mindtree Limited,312.45,0.92,2.89
+L&T Infotech,245.67,0.69,3.34
+Mphasis Limited,401.89,0.46,4.23
+Persistent Systems,167.9,0.83,3.78
+Coforge Limited,334.12,0.61,2.45
+Tata Elxsi Limited,289.45,0.38,3.12
+Zensar Technologies,123.78,0.95,3.89
+Birlasoft Limited,456.23,0.72,4.56
+Happiest Minds Technologies,211.56,0.49,3.12
+Tata Consumer Products,367.89,0.86,2.67
+United Spirits Limited,178.01,0.63,3.34
+United Breweries Limited,301.23,0.41,3.78
+Radico Khaitan Limited,245.45,0.78,4.34
+Varun Beverages Limited,412.67,0.55,3.12
+Jubilant FoodWorks,134.9,0.92,2.89
+Devyani International,389.12,0.69,3.45
+Westlife Development,223.45,0.46,4.23
+Sapphire Foods India,367.78,0.83,3.67
+Indian Hotels Company,178.56,0.61,2.78
+EIH Limited,301.89,0.38,3.12
+Chalet Hotels Limited,245.23,0.95,3.78
+Lemon Tree Hotels,389.45,0.72,4.34
+Mahindra Holidays & Resorts,123.67,0.49,3.12
+InterGlobe Aviation,367.9,0.86,2.67
+SpiceJet Limited,211.12,0.63,3.34
+Adani Ports and SEZ,434.56,0.41,3.78
+Container Corporation of India,178.23,0.78,4.23
+GMR Infrastructure Limited,312.45,0.55,3.12
+IRCTC Limited,245.67,0.92,2.89
+Bharat Electronics Limited,401.89,0.69,3.34
+Hindustan Aeronautics Limited,167.9,0.46,3.78
+BEML Limited,334.12,0.83,4.34
+Mazagon Dock Shipbuilders,289.45,0.61,3.12
+Cochin Shipyard Limited,123.78,0.38,2.67
+Garden Reach Shipbuilders,456.23,0.95,3.34
+L&T Technology Services,211.56,0.72,3.78
+Cyient Limited,367.89,0.49,4.23
+KPIT Technologies Limited,178.01,0.86,3.12
+Tata Technologies Limited,301.23,0.63,2.89
+Aurionpro Solutions Limited,245.45,0.41,3.34
+Sonata Software Limited,412.67,0.78,3.78
+Newgen Software Technologies,134.9,0.55,4.34
+Intellect Design Arena,389.12,0.92,3.12
+Tanla Platforms Limited,223.45,0.69,2.67
+Route Mobile Limited,367.78,0.46,3.34
+Affle India Limited,178.56,0.83,3.78
+Happiest Minds Technologies,301.89,0.61,4.34
+Zomato Limited,245.23,0.38,3.12
+Info Edge India,389.45,0.95,2.89
+Just Dial Limited,123.67,0.72,3.34
+Matrimony.com Limited,367.9,0.49,3.78
+IndiaMART InterMESH,211.12,0.86,4.23
+Nazara Technologies Limited,434.56,0.63,3.12
+CarTrade Tech Limited,178.23,0.41,2.89
+Easy Trip Planners,312.45,0.78,3.34
+Paytm Limited,245.67,0.55,3.78
+PB Fintech Limited,401.89,0.92,4.34
+Delhivery Limited,167.9,0.69,3.12
+FSN E-Commerce Ventures,334.12,0.46,2.67
+Aditya Birla Capital,289.45,0.83,3.34
+Bajaj Housing Finance,123.78,0.61,3.78
+Edelweiss Financial Services,456.23,0.38,4.34
+IIFL Finance Limited,211.56,0.95,3.12
+Poonawalla Fincorp Limited,367.89,0.72,2.89
+Angel One Limited,178.01,0.49,3.34
+Motilal Oswal Financial Services,301.23,0.86,3.78
+Geojit Financial Services,245.45,0.63,4.34
+ICICI Securities Limited,412.67,0.41,3.12
+HDFC Life Insurance,134.9,0.78,2.89
+SBI Life Insurance,389.12,0.55,3.34
+ICICI Prudential Life Insurance,223.45,0.92,3.78
+Max Financial Services,367.78,0.69,4.34
+Star Health and Allied Insurance,178.56,0.46,3.12
+Aditya Birla Sun Life AMC,301.89,0.83,2.89
+UTI Asset Management Company,245.23,0.61,3.34
+Nippon Life India Asset Management,389.45,0.38,3.78
+HDFC Asset Management Company,123.67,0.95,4.34
+Tata Investment Corporation,367.9,0.72,3.12
+Bajaj Holdings & Investment,211.12,0.49,2.89
+L&T Finance Holdings,434.56,0.86,3.34
+Mahindra & Mahindra Financial Services,178.23,0.63,3.78
+Piramal Enterprises Limited,312.45,0.41,4.34
+Sundaram Finance Holdings,245.67,0.78,3.12
+Cholamandalam Financial Holdings,401.89,0.55,2.89
+JM Financial Limited,167.9,0.92,3.34
+Religare Enterprises Limited,334.12,0.69,3.78
+Tata Chemicals Limited,289.45,0.46,4.34
+UPL Limited,123.78,0.83,3.12
+PI Industries Limited,456.23,0.61,2.89
+Coromandel International,211.56,0.38,3.34
+Bayer CropScience Limited,367.89,0.95,3.78
+Sumitomo Chemical India,178.01,0.72,4.34
+Rallis India Limited,301.23,0.49,3.12
+Dhanuka Agritech Limited,245.45,0.86,2.89
+BASF India Limited,412.67,0.63,3.34
+Atul Limited,134.9,0.41,3.78
+Vinati Organics Limited,389.12,0.78,4.34
+Aarti Industries Limited,223.45,0.55,3.12
+Navin Fluorine International,367.78,0.92,2.89
+SRF Limited,178.56,0.69,3.34
+Gujarat Fluorochemicals,301.89,0.46,3.78
+Deepak Nitrite Limited,245.23,0.83,4.34
+Alkyl Amines Chemicals,389.45,0.61,3.12
+Balaji Amines Limited,123.67,0.38,2.89
+Fine Organic Industries,367.9,0.95,3.34
+Neogen Chemicals Limited,211.12,0.72,3.78
+Tatva Chintan Pharma Chem,434.56,0.49,4.34
+Rossari Biotech Limited,178.23,0.86,3.12
+Clean Science and Technology,312.45,0.63,2.89
+Laxmi Organic Industries,245.67,0.41,3.34
+Camlin Fine Sciences,401.89,0.78,3.78
+Sudarshan Chemical Industries,167.9,0.55,4.34
+Heubach Colorants India,334.12,0.92,3.12
+Kansai Nerolac Paints,289.45,0.69,2.89
+Akzo Nobel India Limited,123.78,0.46,3.34
+Indigo Paints Limited,456.23,0.83,3.78
+Shalimar Paints Limited,211.56,0.61,4.34
+Polyplex Corporation Limited,367.89,0.38,3.12
+Cosmo First Limited,178.01,0.95,2.89
+Uflex Limited,301.23,0.72,3.34
+Jindal Poly Films,245.45,0.49,3.78
+Ester Industries Limited,412.67,0.86,4.34
+Garware Technical Fibres,134.9,0.63,3.12
+Supreme Industries Limited,389.12,0.41,2.89
+Finolex Industries Limited,223.45,0.78,3.34
+Astral Limited,367.78,0.55,3.78
+Prince Pipes and Fittings,178.56,0.92,4.34
+Apollo Pipes Limited,301.89,0.69,3.12
+Kajaria Ceramics Limited,245.23,0.46,2.89
+Somany Ceramics Limited,389.45,0.83,3.34
+Cera Sanitaryware Limited,123.67,0.61,3.78
+HSIL Limited,367.9,0.38,4.34
+Orient Bell Limited,211.12,0.95,3.12
+Asian Granito India,434.56,0.72,2.89
+Nitin Spinners Limited,178.23,0.49,3.34
+Vardhman Textiles Limited,312.45,0.86,3.78
+KPR Mill Limited,245.67,0.63,4.34
+Trident Limited,401.89,0.41,3.12
+Raymond Limited,167.9,0.78,2.89
+Arvind Limited,334.12,0.55,3.34
+Welspun India Limited,289.45,0.92,3.78
+Alok Industries Limited,123.78,0.69,4.34
+Siyaram Silk Mills,456.23,0.46,3.12
+Donear Industries Limited,211.56,0.83,2.89
+Banswara Syntex Limited,367.89,0.61,3.34
+Rupa & Company Limited,178.01,0.38,3.78
+Page Industries Limited,301.23,0.95,4.34
+Lux Industries Limited,245.45,0.72,3.12
+Dollar Industries Limited,412.67,0.49,2.89
+VIP Industries Limited,134.9,0.86,3.34
+Safari Industries India,389.12,0.63,3.78
+Samsonite South Asia,223.45,0.41,4.34
+Wildcraft India Limited,367.78,0.78,3.12
+Bata India Limited,178.56,0.55,2.89
+Relaxo Footwears Limited,301.89,0.92,3.34
+Metro Brands Limited,245.23,0.69,3.78
+Campus Activewear Limited,389.45,0.46,4.34
+Mirza International Limited,123.67,0.83,3.12
+Liberty Shoes Limited,367.9,0.61,2.89
+Khadi Gramodyog Limited,211.12,0.38,3.34
+Titan Industries Limited,434.56,0.95,3.78
+PC Jeweller Limited,178.23,0.72,4.34
+Senco Gold Limited,312.45,0.49,3.12
+Kalyan Jewellers India,245.67,0.86,2.89
+TBZ Limited,401.89,0.63,3.34
+Rajesh Exports Limited,167.9,0.41,3.78
+Gitanjali Gems Limited,334.12,0.78,4.34
+Asian Star Company Limited,289.45,0.55,3.12
+Renaissance Global Limited,123.78,0.92,2.89
+Goldiam International Limited,456.23,0.69,3.34
+Vaibhav Global Limited,211.56,0.46,3.78
+Dhanvarsha Finvest Limited,367.89,0.83,4.34
+Manappuram Finance Limited,178.01,0.61,3.12
+Muthoot Capital Services,301.23,0.38,2.89
+Bajaj Consumer Care,245.45,0.95,3.34
+Emami Limited,412.67,0.72,3.78
+Gillette India Limited,134.9,0.49,4.34
+Procter & Gamble Hygiene,389.12,0.86,3.12
+Jyothy Labs Limited,223.45,0.63,2.89
+Hindustan Foods Limited,367.78,0.41,3.34
+Mrs. Bectors Food Specialities,178.56,0.78,3.78
+Tasty Bite Eatables Limited,301.89,0.55,4.34
+Prataap Snacks Limited,245.23,0.92,3.12
+DFM Foods Limited,389.45,0.69,2.89
+Parag Milk Foods Limited,123.67,0.46,3.34
+Hatsun Agro Product,367.9,0.83,3.78
+Heritage Foods Limited,211.12,0.61,4.34
+Dodla Dairy Limited,434.56,0.38,3.12
+Amul India Limited,178.23,0.95,2.89
+Mother Dairy Limited,312.45,0.72,3.34
+Gokul Refoils & Solvent,245.67,0.49,3.78
+Ruchi Soya Industries,401.89,0.86,4.34
+Adani Wilmar Limited,167.9,0.63,3.12
+Marico Industries Limited,334.12,0.41,2.89
+Dabur Foods Limited,289.45,0.78,3.34
+Patanjali Ayurved Limited,123.78,0.55,3.78
+Haldiram's Limited,456.23,0.92,4.34
+Bikaji Foods International,211.56,0.69,3.12
+Balaji Wafers Limited,367.89,0.46,2.89
+Maiyas Beverages and Foods,178.01,0.83,3.34
+MTR Foods Limited,301.23,0.61,3.78
+ITC Foods Limited,245.45,0.38,4.34
+Nestlé Maggi Limited,412.67,0.95,3.12
+Knorr India Limited,134.9,0.72,2.89
+Yippee Noodles Limited,389.12,0.49,3.34
+Top Ramen India,223.45,0.86,3.78
+Sunfeast Foods Limited,367.78,0.63,4.34
+Parle Products Limited,178.56,0.41,3.12
+Britannia Foods Limited,301.89,0.78,2.89
+Anmol Industries Limited,245.23,0.55,3.34
+Durex India Limited,389.45,0.92,3.78
+Manforce Limited,123.67,0.69,4.34
+KamaSutra Limited,367.9,0.46,3.12
+Kohinoor Foods Limited,211.12,0.83,2.89
+Daawat Foods Limited,434.56,0.61,3.34
+LT Foods Limited,178.23,0.38,3.78
+KRBL Limited,312.45,0.95,4.34
+Basmati India Limited,245.67,0.72,3.12
+India Gate Foods,401.89,0.49,2.89
+Tilda Rice Limited,167.9,0.86,3.34
+Amar Singh Chawal Wala,334.12,0.63,3.78
+Shakti Bhog Foods,289.45,0.41,4.34
+REI Agro Limited,123.78,0.78,3.12
+Sarveshwar Foods Limited,456.23,0.55,2.89
+Chaman Lal Setia Exports,211.56,0.92,3.34
+GRM Overseas Limited,367.89,0.69,3.78
+Eco Friendly Food Processing,178.01,0.46,4.34
+Avanti Feeds Limited,301.23,0.83,3.12
+Apex Frozen Foods,245.45,0.61,2.89
+Waterbase Limited,412.67,0.38,3.34
+Zeal Aqua Limited,134.9,0.95,3.78
+Uniroyal Marine Exports,389.12,0.72,4.34
+Shree Renuka Sugars,223.45,0.49,3.12
+Bajaj Hindusthan Sugar,367.78,0.86,2.89
+Balrampur Chini Mills,178.56,0.63,3.34
+Dalmia Bharat Sugar,301.89,0.41,3.78
+Triveni Engineering & Industries,245.23,0.78,4.34
+Dhampur Sugar Mills,389.45,0.55,3.12
+Avadh Sugar & Energy,123.67,0.92,2.89
+Uttam Sugar Mills,367.9,0.69,3.34
+Magadh Sugar & Energy,211.12,0.46,3.78
+KCP Sugar and Industries,434.56,0.83,4.34
+Simbhaoli Sugars Limited,178.23,0.61,3.12
+Thirumalai Chemicals,312.45,0.38,2.89
+Gujarat Ambuja Exports,245.67,0.95,3.34
+Godrej Agrovet Limited,401.89,0.72,3.78
+Venky's India Limited,167.9,0.49,4.34
+Tasty Dairy Specialities,334.12,0.86,3.12
+Umang Dairies Limited,289.45,0.63,2.89
+Kwality Limited,123.78,0.41,3.34
+Parag Foods Limited,456.23,0.78,3.78
+Dynamix Dairy Industries,211.56,0.55,4.34
+Vijaya Dairy Limited,367.89,0.92,3.12
+Milky Mist Dairy,178.01,0.69,2.89
+Aavin Dairy Limited,301.23,0.46,3.34
+Nandini Dairy Limited,245.45,0.83,3.78
+Sudha Dairy Limited,412.67,0.61,4.34
+Verka Dairy Limited,134.9,0.38,3.12
+Vita Dairy Limited,389.12,0.95,2.89
+Anik Industries Limited,223.45,0.72,3.34
+Sanwaria Consumer Limited,367.78,0.49,3.78
+BCL Industries Limited,178.56,0.86,4.34
+Kriti Nutrients Limited,301.89,0.63,3.12
+AVT Natural Products,245.23,0.41,2.89
+Kaveri Seed Company,389.45,0.78,3.34
+Nath Bio-Genes India,123.67,0.55,3.78
+Advanta Limited,367.9,0.92,4.34
+Mangalam Seeds Limited,211.12,0.69,3.12
+JK Agri Genetics Limited,434.56,0.46,2.89
+Rasi Seeds Limited,178.23,0.83,3.34
+Monsanto India Limited,312.45,0.61,3.78
+Nuziveedu Seeds Limited,245.67,0.38,4.34
+Proagro Seeds Limited,401.89,0.95,3.12
+Seminis India Limited,167.9,0.72,2.89
+Mahyco Seeds Limited,334.12,0.49,3.34
+Namdhari Seeds Limited,289.45,0.86,3.78
+Suttons Seeds India,123.78,0.63,4.34
+East West Seeds India,456.23,0.41,3.12
+Vilmorin Seeds India,211.56,0.78,2.89
+Sakata Seed India,367.89,0.55,3.34
+Takii Seed India,178.01,0.92,3.78
+Bejo Seeds India,301.23,0.69,4.34
+Enza Zaden India,245.45,0.46,3.12
+Syngenta India Limited,412.67,0.83,2.89
+Bayer Seeds India,134.9,0.61,3.34
+DuPont Pioneer India,389.12,0.38,3.78
+Corteva Agriscience India,223.45,0.95,4.34
+Dow AgroSciences India,367.78,0.72,3.12
+BASF Agricultural Solutions,178.56,0.49,2.89
+UPL Agrochemicals India,301.89,0.86,3.34
+Dhanuka Agritech Limited,245.23,0.63,3.78
+Insecticides India Limited,389.45,0.41,4.34
+Rallis Agrochemicals,123.67,0.78,3.12
+Sharda Cropchem Limited,367.9,0.55,2.89
+Heranba Industries Limited,211.12,0.92,3.34
+Meghmani Organics Limited,434.56,0.69,3.78
+Astec LifeSciences Limited,178.23,0.46,4.34
+Excel Crop Care Limited,312.45,0.83,3.12
+NACL Industries Limited,245.67,0.61,2.89
+Ankur Seeds Limited,401.89,0.38,3.34
+Prabhat Agri Biotech,167.9,0.95,3.78
+VNR Seeds Limited,334.12,0.72,4.34
+Tropica Seeds Limited,289.45,0.49,3.12
+Indus Seeds Limited,123.78,0.86,2.89
+Ajeet Seeds Limited,456.23,0.63,3.34
+Anand Seeds Limited,211.56,0.41,3.78
+Kanak Seeds Limited,367.89,0.78,4.34
+Shree Ganesh Seeds,178.01,0.55,3.12
+Vijay Seeds Limited,301.23,0.92,2.89
+Krishidhan Seeds Limited,245.45,0.69,3.34
+Malhotra Seeds Limited,412.67,0.46,3.78
+Shriram Seeds Limited,134.9,0.83,4.34
+Jubilant Seeds Limited,389.12,0.61,3.12
+Suman Seeds Limited,223.45,0.38,2.89
+Pragya Seeds Limited,367.78,0.95,3.34
+Surya Seeds Limited,178.56,0.72,3.78
+Vishal Seeds Limited,301.89,0.49,4.34
+Arjun Seeds Limited,245.23,0.86,3.12
+Rahul Seeds Limited,389.45,0.63,2.89
+Kamal Seeds Limited,123.67,0.41,3.34
+Ravi Seeds Limited,367.9,0.78,3.78
+Mohan Seeds Limited,211.12,0.55,4.34
+Ajay Seeds Limited,434.56,0.92,3.12
+Vikas Seeds Limited,178.23,0.69,2.89
+Sanjay Seeds Limited,312.45,0.46,3.34
+Deepak Seeds Limited,245.67,0.83,3.78
+Naveen Seeds Limited,401.89,0.61,4.34
+Rakesh Seeds Limited,167.9,0.38,3.12
+Prakash Seeds Limited,334.12,0.95,2.89
+Suresh Seeds Limited,289.45,0.72,3.34
+Mahesh Seeds Limited,123.78,0.49,3.78
+Vinod Seeds Limited,456.23,0.86,4.34
+Anil Seeds Limited,211.56,0.63,3.12
+Sunil Seeds Limited,367.89,0.41,2.89
+Mukesh Seeds Limited,178.01,0.78,3.34
+Rajesh Seeds Limited,301.23,0.55,3.78
+Amit Seeds Limited,245.45,0.92,4.34
+Rohit Seeds Limited,412.67,0.69,3.12
+Vivek Seeds Limited,134.9,0.46,2.89
+Nitin Seeds Limited,389.12,0.83,3.34
+Sachin Seeds Limited,223.45,0.61,3.78
+Karan Seeds Limited,367.78,0.38,4.34
+Arvind Seeds Limited,178.56,0.95,3.12
+Manish Seeds Limited,301.89,0.72,2.89
+Pankaj Seeds Limited,245.23,0.49,3.34
+Saurabh Seeds Limited,389.45,0.86,3.78
+Vijay Seeds Limited,123.67,0.63,4.34
+Ashok Seeds Limited,367.9,0.41,3.12
+Dinesh Seeds Limited,211.12,0.78,2.89
+Ramesh Seeds Limited,434.56,0.55,3.34
+Sanjiv Seeds Limited,178.23,0.92,3.78
+Kapil Seeds Limited,312.45,0.69,4.34
+Gaurav Seeds Limited,245.67,0.46,3.12
+Abhishek Seeds Limited,401.89,0.83,2.89
+Rahul Seeds Limited,167.9,0.61,3.34
+Sameer Seeds Limited,334.12,0.38,3.78
+Nikhil Seeds Limited,289.45,0.95,4.34
+Vishnu Seeds Limited,123.78,0.72,3.12
+Shiva Seeds Limited,456.23,0.49,2.89
+Krishna Seeds Limited,211.56,0.86,3.34
+Ram Seeds Limited,367.89,0.63,3.78
+Lakshmi Seeds Limited,178.01,0.41,4.34
+Saraswati Seeds Limited,301.23,0.78,3.12
+Durga Seeds Limited,245.45,0.55,2.89
+Ganesh Seeds Limited,412.67,0.92,3.34
+Hanuman Seeds Limited,134.9,0.69,3.78
+Bajrang Seeds Limited,389.12,0.46,4.34
+Shankar Seeds Limited,223.45,0.83,3.12
+Parvati Seeds Limited,367.78,0.61,2.89
+Kali Seeds Limited,178.56,0.38,3.34
+Venkatesh Seeds Limited,301.89,0.95,3.78
+Narayan Seeds Limited,245.23,0.72,4.34
+Madhav Seeds Limited,389.45,0.49,3.12
+Keshav Seeds Limited,123.67,0.86,2.89
+Gopal Seeds Limited,367.9,0.63,3.34
+Yadav Seeds Limited,211.12,0.41,3.78
+Patel Seeds Limited,434.56,0.78,4.34
+Sharma Seeds Limited,178.23,0.55,3.12
+Verma Seeds Limited,312.45,0.92,2.89
+Gupta Seeds Limited,245.67,0.69,3.34
+Singh Seeds Limited,401.89,0.46,3.78
+Kumar Seeds Limited,167.9,0.83,4.34
+Jain Seeds Limited,334.12,0.61,3.12
+Agarwal Seeds Limited,289.45,0.38,2.89
+Mittal Seeds Limited,123.78,0.95,3.34
+Shah Seeds Limited,456.23,0.72,3.78
+Mehta Seeds Limited,211.56,0.49,4.34
+Desai Seeds Limited,367.89,0.86,3.12
+Joshi Seeds Limited,178.01,0.63,2.89
