@@ -12,6 +12,7 @@ A modular data engineering pipeline that fetches, stores, transforms, and analyz
 ## Project Structure
 
 stockPortfolioOptimization/
+
 ├── dags/                     # (Planned) Airflow DAGs  
 ├── data_pipeline/  
 │   ├── fetch_data.py         # Ingest data from yFinance & upload to MinIO  
